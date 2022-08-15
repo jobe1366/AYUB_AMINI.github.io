@@ -78,7 +78,7 @@ social-network-links:
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<https://jobe1366.github.io>/feed.xml
+# The URL for the feed will be https://< dsacsd >/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://jobe1366.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
