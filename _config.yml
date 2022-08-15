@@ -22,9 +22,10 @@ author: "Ayub amini"
 navbar-links:
   About Me: "computer vision and image processing"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+     - my github resource: "https://jobe1366.github.io"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -49,10 +50,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "a.amini5404@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
+  github: jobe1366
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
