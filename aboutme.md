@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "computer vision and image processing"
+title: computer vision and image processing
 subtitle: my website
 ---
 
