@@ -1,10 +1,10 @@
 ---
 layout: page
-title: computer vision and image processing
-subtitle: myyyyyyyyyyyyy  website
+title: "computer vision and image processing"
+subtitle: my website
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ayub Amini. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
