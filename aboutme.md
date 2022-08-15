@@ -1,7 +1,7 @@
 ---
 layout: page
 title: computer vision and image processing
-subtitle: my website
+subtitle: my websitee
 ---
 
 My name is Ayub Amini. I have the following qualities:
