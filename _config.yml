@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: computer vision
 
 # Your name to show in the footer
 author: "Ayub amini"
@@ -20,9 +20,9 @@ author: "Ayub amini"
 ###############################################
 
 navbar-links:
-  About Me: "computer vision and image processing"
+  About Me: "aboutme"
   Resources:
-     - my github resource: "https://github.com/jobe1366"
+     - my github resource: "https://github.com/jobe1366.com"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
