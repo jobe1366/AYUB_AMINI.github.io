@@ -1,6 +1,5 @@
-## Hesham Eraqi's Personal Website
+## Ayub Amini's Personal Website
 
-### Other website: [Simply](simply.blogspot.com)
 
 ### Markdown
 
