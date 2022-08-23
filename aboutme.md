@@ -3,5 +3,5 @@ layout: page
 title: About me
 subtitle: Who am I ?
 ---
-
-My name is *Ayub Amini* and I have finished master degree in satellite technology field two weeks ago, although I have graduated in satellite communication, but my original career was around *computer vision, image processing and machine learning* on satellite data, computer networks !!!
+I am an M.Sc. student in satellite technology, and I was looking for an opportunity to learn AI and use it in real life applications due to my great interest in AI. Finally, I was able to pursue this field more seriously in my master's degree, and I am currently researching the object recognition methods in various fields.
+My research focuses on object recognition especially analysis, implementation and development of single-stage object detectors for high-resolution satellite images with arbitrary orientations, large aspect ratios and dense arrangement.
