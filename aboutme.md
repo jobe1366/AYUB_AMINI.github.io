@@ -7,7 +7,7 @@ I am a MSc student in _satellite technology_ and I have finished master degree a
 My research focuses on _object recognition especially analysis, implementation and development of single-stage object detectors for high-resolution satellite images with arbitrary orientations, large aspect ratios and dense arrangement_ 
 
 
- #### *Interests*
+ **Interests**
 -  *Computer Vision*
 -  *Image Processing*
 -  *Machin Learnig*
