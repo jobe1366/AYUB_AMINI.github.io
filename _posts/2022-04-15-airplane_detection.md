@@ -30,8 +30,9 @@ This **rotation airplane detector** is implemented and modified based on [pytorc
  
   ![](/assets/img/curve.PNG)
 
-### Outputs for rotated airplane detector
----
+### Outputs for rotated airplane detector  
+---  
+
 
 - Correct detection for all airplanes 
  
