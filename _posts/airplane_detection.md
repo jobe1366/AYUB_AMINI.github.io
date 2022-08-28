@@ -3,7 +3,10 @@
 layout: post
 title: Rotatated airplane Detection
 subtitle: nothing, just for testing
-
+gh-repo: 
+gh-badge:
+tags: 
+comments: true
 ---
 
 
