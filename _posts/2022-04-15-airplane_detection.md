@@ -28,16 +28,16 @@ This **rotation airplane detector** is implemented and modified based on [pytorc
 
 - Totall loss =  regression loss + clasification loss
  
-  ![loss-curve](imgs/loss-curve.PNG)
+  ![loss-curve](assets/img/curve.PNG)
 
 ### Outputs for rotated airplane detector
 ---
 
 - Correct detection for all airplanes 
  
-   ![outputs](https://github.com/jobe1366/Rotated-airplane-detection/blob/main/imgs/outputs%20of%20detector.PNG)
+   ![outputs](assets/img/output-1.PNG)
       
 - Detection of airplanes along with some error in detection
  
-   ![outputs](https://github.com/jobe1366/Rotated-airplane-detection/blob/main/imgs/errors%20in%20detection.PNG)
+   ![outputs](assets/img/output-2.PNG)
 
