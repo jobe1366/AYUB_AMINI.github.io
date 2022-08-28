@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rotatated airplane Detection
-subtitle: nothing, just for testing
+title: airplane Detection
+subtitle: rotated version of EfficientDet
 gh-repo: 
 gh-badge:
 tags: 
