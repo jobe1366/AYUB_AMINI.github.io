@@ -35,7 +35,7 @@ This **rotation airplane detector** is implemented and modified based on [pytorc
 
 - Correct detection for all airplanes 
  
-   ![](https://github.com/jobe1366/Rotated-airplane-detection/blob/main/imgs/outputs%20of%20detector.PNG)
+   ![outputs of detector.PNG](https://github.com/jobe1366/Rotated-airplane-detection/blob/main/imgs/outputs%20of%20detector.PNG)
       
 - Detection of airplanes along with some error in detection
  
