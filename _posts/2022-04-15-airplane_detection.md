@@ -21,8 +21,8 @@ This **rotation airplane detector** is implemented and modified based on [pytorc
 ## **evaluation metrics**  
 
 |coefficient|Input Size|mAP(iou=.5)|
-|:---------:|:--------:|:---------:|
-|D2         |768 x 768 |0.574      |
+|:---------:|:---------:|:---------:|
+|     D2    | 768 x 768 |  0.574    |
 
 - loss curve
 
